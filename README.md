@@ -1,7 +1,13 @@
 # Unity-ScreenshotTool
-Tool for taking general screenshots of the Game window in the Editor.
+
+### What is it?
+It's nothing fancy.
+
+A tool for taking general screenshots of the Game window in the Editor.
 
 Specifically has Asset Store images in mind - but great for other stuff too.
+
+
 
 ## Usage
 1. Place within project.
