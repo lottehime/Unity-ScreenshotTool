@@ -7,6 +7,8 @@ A tool for taking general screenshots of the Game window in the Editor.
 
 Specifically has Asset Store images in mind - but great for other stuff too.
 
+Easily extended.
+
 
 
 ## Usage
